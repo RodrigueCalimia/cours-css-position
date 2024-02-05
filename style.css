@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(234, 234, 234);
+}
+p{
+    background-color: aquamarine;
+    width: auto;
+    max-width: 950px;
+    padding: 10px;
+    font-size: 28px;
+}
+a {
+    background-color: white;
+}
