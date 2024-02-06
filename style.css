@@ -24,12 +24,13 @@ h1 {
 }
 
 .sticky {
+  position: sticky;
   background-color: #C2B0F9;
   margin: auto;
   top: 0;
 }
-
 .fixed {
+  position: fixed;
   background-color: #CBFCB9;
   top: 0;
   left: 0;
